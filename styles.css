@@ -10,11 +10,21 @@
     width: 200px;
     height: 300px;
     padding: 10px 20px;
-    border: 5px solid rgb(255, 211, 218);
+    border: 5px solid rgb(180, 129, 168);
     margin: 30px;
 }
 .name {
-    border: 1px solid black;
-    text-align: center;
+    text-align: left;
     padding: 10px;
+}
+.picture {
+    border: 5px solid grey;
+    text-align: center;
+    height:100px;
+}
+p {
+    color:red;
+}
+.abilitycolor{
+    color:red;
 }

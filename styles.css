@@ -7,8 +7,8 @@
     box-sizing: border-box;
 }
 .container {
-    width: 200px;
-    height: 300px;
+    width: 250px;
+    height: 400px;
     padding: 10px 20px;
     border: 5px solid rgb(180, 129, 168);
     margin: 30px;
@@ -21,9 +21,6 @@
     border: 5px solid grey;
     text-align: center;
     height:100px;
-}
-p {
-    color:red;
 }
 .abilitycolor{
     color:red;
